@@ -27,8 +27,8 @@ For Software:
 
 [HTML,CSS JavaSCRIPT]
 [Gemini AP1]
-[React]
-[VS Code]
+[React,node.js]
+[VS Code,Chatgpt,deepseek,claude]
 For Hardware:
 
 [Mood Selector,Chat Interface,Message Input Box,Button Components,Error Handling]
