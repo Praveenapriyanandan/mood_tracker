@@ -1,53 +1,60 @@
-[Project Name] 🎯
+[MOOD TRACKER] 🎯
 Basic Details
-Team Name: [Name]
+Team Name: [ERROR 404]
 Team Members
-Member 1: [Name] - [College]
-Member 2: [Name] - [College]
-Member 3: [Name] - [College]
+Member 1: [ASHNA KHALID] - [College Of Engineering Karunagappally]
+Member 2: [PRAVEENA K P] - [College Of Engineering Karunagappally]
+
 Hosted Project Link
-[mention your project hosted project link here]
+[https://mood-tracker-inky-omega.vercel.app/]
 
 Project Description
-[2-3 lines about what your project does]
+[A website that helps remove negative emotions.]
 
 The Problem statement
-[What ridiculous problem are you solving?]
+[In today's fast-paced world, people often experience fluctuations in their mood due to various personal, professional, or social factors. These mood swings can affect their mental health and overall well-being. However, tracking and managing mood patterns can be difficult, especially when individuals don’t have a clear understanding of the emotional triggers they experience on a daily basis.
+
+The lack of easy-to-use tools for mood tracking and the absence of real-time emotional support make it challenging for individuals to monitor and improve their emotional states. Additionally, many people feel isolated when trying to express their emotions, further affecting their mental health.]
 
 The Solution
-[How are you solving it? Keep it fun!]
+[The MoodTracker app provides users with an intuitive interface to track their mood and receive real-time, mood-appropriate responses from an AI-powered chatbot. By selecting their current mood from a range of options, users can engage in a supportive conversation that helps them understand and manage their feelings. This not only assists in emotional awareness but also encourages positive interaction and mental well-being.
+
+This application aims to foster emotional intelligence, providing users with a platform to better understand their emotions and take proactive steps toward improving their mood.]
 
 Technical Details
 Technologies/Components Used
 For Software:
 
-[Languages used]
-[Frameworks used]
-[Libraries used]
-[Tools used]
+[HTML,CSS JavaSCRIPT]
+[Gemini AP1]
+[React]
+[VS Code]
 For Hardware:
 
-[List main components]
-[List specifications]
-[List tools required]
+[Mood Selector,Chat Interface,Message Input Box,Button Components,Error Handling]
+[User Interaction,Chat Flow,API Communication,UI/UX]
+[React,Axios,React Router,Styled-components / CSS,Gemini API,React Context API,react-loading,Prop-Types,FontAwesome ]
 Implementation
 For Software:
 
 Installation
-[commands]
+[ my-first-react-app]
 
 Run
-[commands]
+[npm start]
 
 Project Documentation
-For Software:
+For Software:react,vscode,github
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![![Screenshot 2025-02-09 102046](https://github.com/user-attachments/assets/218464f1-15b1-4eb2-8b68-09d5c8c822d5)
+](home page) This apgebasks you which mood you are in
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![![Screenshot 2025-02-09 102100](https://github.com/user-attachments/assets/6104e70f-2817-46e8-88d9-245a74c06557)
+](Motivation ) page adds a motivation tip
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+![![Screenshot 2025-02-09 102127](https://github.com/user-attachments/assets/d5c7c0af-2abe-4841-a44a-261957d719b6)
+](ChatBot) chatbot interface
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
@@ -60,7 +67,8 @@ Schematic & Circuit
 ![Schematic](Add your schematic diagram here) Add caption explaining the schematic
 
 Build Photos
-![Team](Add photo of your team here)
+![Team](![WhatsApp Image 2025-02-09 at 10 33 16_5ec50f84](https://github.com/user-attachments/assets/ec783c98-03cc-4cc0-8009-df034f72d9bf)
+)
 
 ![Components](Add photo of your components here) List out all components shown
 
@@ -70,12 +78,9 @@ Build Photos
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+[https://drive.google.com/file/d/1DP60aVAOSeNczhC8nXc3i_dtFRHfuoS9/view?usp=sharing] Explain what the video demonstrates
 
 Additional Demos
 [Add any extra demo materials/links]
 
-Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+
