@@ -39,8 +39,8 @@ const MoodTracker = () => {
         body: JSON.stringify({
           contents: [{
             parts: [{
-              text: `As an optimistic friend suggesting tips to according to mood of user and helping someone who is feeling ${moods[currentMood]?.label}, 
-                     respond to the following message with care and understanding: ${userMessage}`
+              text: `Act as a friend who hears about the mood and give only two suggestion on beginning    ${moods[currentMood]?.label}, 
+                     and respond to the following message understanding user's replies: ${userMessage}`
             }]
           }]
         })
